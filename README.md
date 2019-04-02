@@ -1,5 +1,5 @@
 # WahWah
-This is an application for a real-time wah wah pedal effect.
+This is an application for a real-time wah wah effect.
 
 "ViewController.swift" is the main code for this project.
 
