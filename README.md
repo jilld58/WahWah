@@ -9,8 +9,10 @@ In the menu bar, select "Product --> Run" or select the "Build and Run Current S
 
 In the simulator, you can control:
 1. Speed of LFO
-2. Maximum Frequency
-3. Minimum Frequency
+2. Maximum Frequency of LFO
+3. Minimum Frequency of LFO
 4. Q
 
 The "WahWah.pd" file is the Pure Data patch for the effect.
+
+pd-for-ios is required.
