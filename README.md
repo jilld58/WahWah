@@ -14,5 +14,3 @@ In the simulator, you can control:
 4. Q
 
 The "WahWah.pd" file is the Pure Data patch for the effect.
-
-pd-for-ios is required.
